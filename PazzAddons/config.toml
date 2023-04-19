@@ -1,0 +1,15 @@
+
+[test]
+
+	[test.general]
+		"necron's_handle" = true
+
+[dungeons]
+
+	[dungeons.general]
+		instant_ghost_block = false
+
+	[dungeons.chat_messages]
+		ready_up_message = false
+		"don't_dps_maxor" = true
+

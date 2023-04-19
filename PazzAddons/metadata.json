@@ -1,0 +1,7 @@
+{
+    "name": "PazzAddons",
+    "creator": "Pazz",
+    "description": "WIP Module! Pazz#9901 On Discord!",
+    "version": "1.0.0",
+    "entry": "index.js"
+  }
